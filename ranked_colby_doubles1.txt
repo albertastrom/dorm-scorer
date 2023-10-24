@@ -1,0 +1,265 @@
+1. East 204 - Score: 87.81%
+2. East 304 - Score: 87.48%
+3. East 222 - Score: 87.00%
+4. East 322 - Score: 86.50%
+5. East 208 - Score: 85.63%
+6. East 308 - Score: 85.63%
+7. East 211 - Score: 80.92%
+8. East 311 - Score: 80.92%
+9. East 215 - Score: 78.25%
+10. East 315 - Score: 78.25%
+11. East 104 - Score: 78.15%
+12. East 122 - Score: 76.50%
+13. East 018 - Score: 74.95%
+14. East 022 - Score: 74.31%
+15. East 008 - Score: 72.79%
+16. East 118 - Score: 71.79%
+17. East 015 - Score: 70.92%
+18. Heights 112 - Score: 69.65%
+19. East 115 - Score: 68.25%
+20. Heights 315 - Score: 68.16%
+21. East 011 - Score: 67.92%
+22. Roberts 200 - Score: 49.76%
+23. Perkins-Wilson 315 - Score: 48.93%
+24. East 305 - Score: 45.27%
+25. Roberts 204 - Score: 44.93%
+26. Treworgy 214 - Score: 44.93%
+27. Drummond 214 - Score: 44.74%
+28. Johnson Pond 3 215 - Score: 44.60%
+29. Johnson Pond 4 215 - Score: 44.60%
+30. Goddard-Hodgkins 214 - Score: 44.43%
+31. Pierce 215 - Score: 43.93%
+32. Roberts 306 - Score: 43.62%
+33. AMS 216 - Score: 43.11%
+34. AMS 217 - Score: 42.78%
+35. AMS 379 - Score: 42.78%
+36. AMS 277 - Score: 42.44%
+37. AMS 316 - Score: 42.44%
+38. AMS 377 - Score: 42.27%
+39. AMS 319 - Score: 42.27%
+40. AMS 349 - Score: 42.27%
+41. Roberts 305 - Score: 42.27%
+42. AMS 276 - Score: 42.10%
+43. AMS 249 - Score: 42.10%
+44. Drummond 215 - Score: 42.07%
+45. Treworgy 215 - Score: 42.07%
+46. AMS 247 - Score: 41.93%
+47. AMS 376 - Score: 41.93%
+48. Goddard-Hodgkins 206 - Score: 41.93%
+49. Goddard-Hodgkins 206 - Score: 41.93%
+50. AMS 346 - Score: 41.77%
+51. East 320 - Score: 41.77%
+52. Goddard-Hodgkins 215 - Score: 41.74%
+53. AMS 219 - Score: 41.43%
+54. Treworgy 206 - Score: 41.43%
+55. Pierce 205 - Score: 41.26%
+56. Pierce 206 - Score: 41.26%
+57. Treworgy 205 - Score: 41.26%
+58. East 205 - Score: 41.23%
+59. AMS 246 - Score: 40.93%
+60. Johnson Pond 3 228 - Score: 40.93%
+61. Johnson Pond 3 227 - Score: 40.93%
+62. Johnson Pond 4 228 - Score: 40.93%
+63. Johnson Pond 4 227 - Score: 40.93%
+64. Johnson Pond 3 216 - Score: 40.42%
+65. Johnson Pond 4 216 - Score: 40.42%
+66. Pierce 218 - Score: 39.75%
+67. AMS 318 - Score: 39.61%
+68. AMS 218 - Score: 39.44%
+69. Pierce 305 - Score: 39.44%
+70. Perkins-Wilson 205 - Score: 39.43%
+71. AMS 248 - Score: 39.27%
+72. Goddard-Hodgkins 306 - Score: 38.93%
+73. Goddard-Hodgkins 305 - Score: 38.93%
+74. Johnson Pond 3 218 - Score: 38.91%
+75. Johnson Pond 3 232 - Score: 38.91%
+76. Johnson Pond 3 229 - Score: 38.91%
+77. Johnson Pond 4 218 - Score: 38.91%
+78. Johnson Pond 4 232 - Score: 38.91%
+79. Johnson Pond 4 229 - Score: 38.91%
+80. AMS 348 - Score: 38.77%
+81. Pierce 315 - Score: 38.77%
+82. Roberts 303 - Score: 38.74%
+83. Johnson Pond 3 219 - Score: 38.57%
+84. Johnson Pond 4 219 - Score: 38.57%
+85. Perkins-Wilson 215 - Score: 38.42%
+86. Perkins-Wilson 214 - Score: 38.26%
+87. Johnson Pond 3 211 - Score: 38.23%
+88. Johnson Pond 3 210 - Score: 38.23%
+89. Johnson Pond 4 211 - Score: 38.23%
+90. Johnson Pond 4 210 - Score: 38.23%
+91. Johnson Pond 3 213 - Score: 38.07%
+92. Johnson Pond 4 213 - Score: 38.07%
+93. Drummond 206 - Score: 37.93%
+94. Drummond 205 - Score: 37.42%
+95. Johnson Pond 3 130 - Score: 37.15%
+96. Johnson Pond 4 130 - Score: 37.15%
+97. East 220 - Score: 36.89%
+98. Johnson Pond 3 222 - Score: 36.72%
+99. Johnson Pond 4 222 - Score: 36.72%
+100. Johnson Pond 3 223 - Score: 36.55%
+101. Johnson Pond 4 223 - Score: 36.55%
+102. Johnson Pond 3 225 - Score: 36.05%
+103. Johnson Pond 4 225 - Score: 36.05%
+104. Treworgy 314 - Score: 35.93%
+105. Drummond 314 - Score: 35.74%
+106. Goddard-Hodgkins 314 - Score: 35.43%
+107. Pierce 318 - Score: 35.43%
+108. Treworgy 306 - Score: 35.43%
+109. Perkins-Wilson 206 - Score: 35.26%
+110. Treworgy 305 - Score: 35.26%
+111. Roberts 222 - Score: 35.21%
+112. Roberts 224 - Score: 34.71%
+113. Drummond 315 - Score: 33.75%
+114. Roberts 223 - Score: 33.20%
+115. Treworgy 315 - Score: 33.07%
+116. Perkins-Wilson 105 - Score: 32.77%
+117. Goddard-Hodgkins 315 - Score: 32.74%
+118. Dana 210 - Score: 32.44%
+119. Dana 310 - Score: 32.44%
+120. Mary-Low 224 - Score: 32.26%
+121. Dana 246 - Score: 32.10%
+122. Dana 346 - Score: 32.10%
+123. AMS 132 - Score: 31.43%
+124. East 020 - Score: 31.38%
+125. Foss 314 - Score: 31.25%
+126. Johnson Pond 3 126 - Score: 30.93%
+127. Johnson Pond 3 125 - Score: 30.93%
+128. Johnson Pond 4 126 - Score: 30.93%
+129. Johnson Pond 4 125 - Score: 30.93%
+130. Foss 235 - Score: 30.78%
+131. Foss 316 - Score: 30.75%
+132. Coburn 262 - Score: 30.61%
+133. Mary-Low 324 - Score: 30.58%
+134. Coburn 341 - Score: 30.27%
+135. Pierce 013 - Score: 30.08%
+136. Dana 351 - Score: 30.08%
+137. Dana 311 - Score: 30.08%
+138. Foss 335 - Score: 29.93%
+139. Woodman 370 - Score: 29.93%
+140. Mary-Low 223 - Score: 29.91%
+141. Drummond 105 - Score: 29.78%
+142. Coburn 362 - Score: 29.60%
+143. AMS 117 - Score: 29.27%
+144. Goddard-Hodgkins 106 - Score: 29.27%
+145. Goddard-Hodgkins 105 - Score: 29.27%
+146. AMS 192 - Score: 29.24%
+147. Dana 251 - Score: 29.24%
+148. Dana 211 - Score: 29.24%
+149. Treworgy 106 - Score: 29.10%
+150. Johnson Pond 3 117 - Score: 29.07%
+151. Johnson Pond 4 117 - Score: 29.07%
+152. AMS 179 - Score: 28.93%
+153. Treworgy 105 - Score: 28.93%
+154. Johnson Pond 3 116 - Score: 28.91%
+155. Johnson Pond 4 116 - Score: 28.91%
+156. AMS 119 - Score: 28.77%
+157. Perkins-Wilson 106 - Score: 28.77%
+158. Pierce 105 - Score: 28.77%
+159. Pierce 106 - Score: 28.77%
+160. AMS 176 - Score: 28.60%
+161. AMS 116 - Score: 28.60%
+162. Drummond 106 - Score: 28.43%
+163. Mary-Low 323 - Score: 28.39%
+164. Woodman 276 - Score: 28.25%
+165. Foss 317 - Score: 28.25%
+166. Woodman 376 - Score: 28.25%
+167. Foss 217 - Score: 28.08%
+168. East 120 - Score: 28.07%
+169. Foss 215 - Score: 27.92%
+170. Johnson Pond 3 110 - Score: 27.90%
+171. Johnson Pond 3 111 - Score: 27.90%
+172. Johnson Pond 4 110 - Score: 27.90%
+173. Johnson Pond 4 111 - Score: 27.90%
+174. Dana 328 - Score: 27.78%
+175. Johnson Pond 3 113 - Score: 27.73%
+176. Johnson Pond 4 113 - Score: 27.73%
+177. Dana 228 - Score: 27.61%
+178. Dana 224 - Score: 27.61%
+179. Dana 324 - Score: 27.61%
+180. Coburn 241 - Score: 27.58%
+181. Foss 240 - Score: 27.10%
+182. Woodman 366 - Score: 26.93%
+183. Foss 216 - Score: 26.74%
+184. Foss 315 - Score: 26.74%
+185. Johnson Pond 3 120 - Score: 26.72%
+186. Johnson Pond 3 123 - Score: 26.72%
+187. Johnson Pond 4 120 - Score: 26.72%
+188. Johnson Pond 4 123 - Score: 26.72%
+189. Johnson Pond 4 123 - Score: 26.72%
+190. Johnson Pond 3 121 - Score: 26.55%
+191. Johnson Pond 4 121 - Score: 26.55%
+192. Dana 230 - Score: 26.43%
+193. Dana 232 - Score: 26.26%
+194. Dana 332 - Score: 26.26%
+195. Dana 222 - Score: 26.09%
+196. Dana 330 - Score: 26.09%
+197. Dana 322 - Score: 26.09%
+198. Coburn 264 - Score: 25.76%
+199. Woodman 375 - Score: 25.39%
+200. Foss 238 - Score: 24.38%
+201. Foss 214 - Score: 24.24%
+202. Foss 338 - Score: 24.22%
+203. Foss 311 - Score: 23.91%
+204. Foss 239 - Score: 23.74%
+205. Coburn 162 - Score: 23.59%
+206. Dana 231 - Score: 23.57%
+207. Dana 229 - Score: 23.57%
+208. Dana 225 - Score: 23.57%
+209. Dana 351 - Score: 23.57%
+210. Dana 329 - Score: 23.57%
+211. Dana 325 - Score: 23.57%
+212. Dana 227 - Score: 23.40%
+213. Dana 327 - Score: 23.40%
+214. Foss 339 - Score: 23.40%
+215. Foss 213 - Score: 22.90%
+216. Coburn 062 - Score: 22.42%
+217. Woodman 265 - Score: 22.39%
+218. Coburn 364 - Score: 22.39%
+219. Mary-Low 124 - Score: 22.26%
+220. Foss 211 - Score: 22.08%
+221. Woodman 252 - Score: 21.92%
+222. Woodman 364 - Score: 21.92%
+223. Foss 313 - Score: 21.05%
+224. Coburn 041 - Score: 20.94%
+225. Coburn 141 - Score: 20.94%
+226. Dana 148 - Score: 20.93%
+227. Woodman 170 - Score: 20.61%
+228. Woodman 166 - Score: 19.93%
+229. Woodman 162 - Score: 19.60%
+230. Mary-Low 123 - Score: 19.57%
+231. Woodman 165 - Score: 19.56%
+232. Coburn 057 - Score: 19.54%
+233. Woodman 066 - Score: 19.26%
+234. Woodman 352 - Score: 18.92%
+235. Heights 102 - Score: 18.91%
+236. Dana 151 - Score: 18.74%
+237. Dana 108 - Score: 18.42%
+238. Woodman 176 - Score: 18.25%
+239. Dana 128 - Score: 17.61%
+240. Dana 124 - Score: 17.61%
+241. Dana 111 - Score: 17.58%
+242. Woodman 065 - Score: 17.56%
+243. Coburn 169 - Score: 17.08%
+244. Woodman 164 - Score: 16.92%
+245. Woodman 076 - Score: 16.91%
+246. Mary-Low 117 - Score: 16.87%
+247. Coburn 055 - Score: 16.74%
+248. Dana 130 - Score: 16.43%
+249. Woodman 064 - Score: 16.41%
+250. Dana 132 - Score: 16.26%
+251. Dana 122 - Score: 16.09%
+252. Heights 103 - Score: 15.91%
+253. Heights 105 - Score: 15.91%
+254. Heights 106 - Score: 15.91%
+255. Foss 116 - Score: 15.73%
+256. Dana 131 - Score: 13.57%
+257. Dana 129 - Score: 13.57%
+258. Dana 125 - Score: 13.57%
+259. Woodman 068 - Score: 13.50%
+260. Dana 127 - Score: 13.40%
+261. Heights 104 - Score: 12.91%
+262. Coburn 164 - Score: 11.68%
+263. Woodman 152 - Score: 11.24%
+264. Coburn 042 - Score: 10.00%
+265. Woodman 160 - Score: 7.67%
