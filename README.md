@@ -10,6 +10,7 @@ In order to maximize the chances of being satisfied with housing next year, this
 
 Each room is ranked based on the following seven weighted criteria:
 
+```
 1. Number of Rooms (weight: 0.38)
 1. Square Footage (weight: 0.18)
 1. Location (weight: 0.12)
@@ -17,6 +18,7 @@ Each room is ranked based on the following seven weighted criteria:
 1. Floor (weight: 0.1)
 1. Number of Windows (weight: 0.09)
 1. Likeability (0.04)
+```
 
 ## **Algorithm**
 
@@ -33,6 +35,7 @@ Here is how to fill in each column…
 The room ID is simply the building identifier + room number.
 
 The building identifiers are as follows:
+```
 (Building - Code)
 - AMS - A
 - Coburn - C
@@ -50,8 +53,9 @@ The building identifiers are as follows:
 - Roberts - R
 - Treworgy - T
 - Woodman - W
+```
 
-So, Pierce 211 would have room ID P211.
+So, Pierce 211 would have room ID `P211`.
 
 ### **Number of Rooms**
 
@@ -79,13 +83,17 @@ While this one is livable regardless, it can be a huge inconvenience if you have
 
 In the spreadsheet, write the number that corresponds to the following scale:
 
+
+```
 1 - next door / a few doors down
 
 2 - down the hall
 
 3 - different floor next to stairwell
 
-4 - different floor down the hall 
+4 - different floor down the hall
+```
+
 
 ### **Floor**
 
@@ -93,9 +101,11 @@ While living on the ground floor can be nice for going in and out of the dorm bu
 
 In the spreadsheet, write the number that corresponds to the following scale:
 
+```
 1 - ground floor
 
 2 - 2nd or 3rd floor 
+```
 
 ### **Number of Windows**
 
@@ -109,11 +119,13 @@ There's a chance that a room will check all of the boxes and still feel wrong. T
 
 In the spreadsheet, write the number that corresponds to the following scale:
 
+```
 1 - standard 
 
 2 - slightly off
 
 3 - very off
+```
 
 ### **Example**
 
@@ -121,7 +133,7 @@ Dana 127 would have the following numbers:
 
 (Room ID, Number of rooms, Square footage, Location, Proximity to Bathroom, Floor, Number of windows, Likeability)
 
-D127, 1, 186, 3, 1, 1, 1, 1
+`D127, 1, 186, 3, 1, 1, 1, 1`
 
 ## **Links**
 
@@ -129,7 +141,7 @@ Spreadsheet:
 
 [Doubles Room Rank](https://docs.google.com/spreadsheets/d/1iNgbPg7el4IeEMWJMwpXAPaEGJqYV0vTpe3bg1LhcbA/edit?usp=sharing)
 
-Floor plans:
+Floor plans (now defunct):
 
 <https://life.colby.edu/wp-content/uploads/2023/04/2023-Room-Draw-Upperclass.pdf>
 

@@ -41,7 +41,7 @@ def read_csv_file(filename):
 
 
 def normalize_values(rooms):
-    epsilon = 1e-6  # Small constant to avoid division by zero
+    epsilon = 1e-6  
 
     for criterion, criterion_data in weights.items():
         min_value = float('inf')
